@@ -1,0 +1,2 @@
+import{a as e}from"./9Q-xdrHj.js";import{t}from"./DxLN9Q9A.js";var n=null;async function r(){if(n)return n;try{let r=await(await t(()=>import(`${e}/wasm/libdedx.mjs`),[],import.meta.url)).default({locateFile:t=>`${e}/wasm/${t}`}),{LibdedxServiceImpl:i}=await t(async()=>{let{LibdedxServiceImpl:e}=await import(`./CK4uhYAG.js`);return{LibdedxServiceImpl:e}},[],import.meta.url);return n=new i(r),await n.init(),n}catch(e){let t=e instanceof Error?e.message:String(e);throw Error(`Failed to load WASM module: ${t}`)}}export{r as t};
+//# sourceMappingURL=BzuzEtp4.js.map
