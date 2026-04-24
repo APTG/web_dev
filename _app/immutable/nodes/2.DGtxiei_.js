@@ -1,2 +1,0 @@
-import{B as e,E as t,_ as n,at as r,f as i,mt as a,ot as o,w as s,z as c}from"../chunks/HI6A6UDn.js";import{a as l,t as u}from"../chunks/4ZKz3ILv.js";import"../chunks/v_jBEYI6.js";var d=a({prerender:()=>!0}),f=t(`<meta http-equiv="refresh"/>`);function p(t,a){o(a,!0),e(()=>{u(`${l}/calculator`,{replaceState:!0})}),n(`1uha8ag`,e=>{var t=f();c(()=>i(t,`content`,`0;url=${l}/calculator`)),s(e,t)}),r()}export{p as component,d as universal};
-//# sourceMappingURL=2.DGtxiei_.js.map
