@@ -1,0 +1,2 @@
+import"./DJhgg3Kz.js";import{r as e}from"./DQ7Idvlq.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}};export{n as t};
+//# sourceMappingURL=D_vNKeQ9.js.map
