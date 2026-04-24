@@ -1,0 +1,2 @@
+import"./HI6A6UDn.js";import{r as e}from"./4ZKz3ILv.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}};export{n as t};
+//# sourceMappingURL=DyuCfr6y.js.map
