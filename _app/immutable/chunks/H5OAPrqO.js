@@ -1,2 +1,0 @@
-import"./Wpl4mk1g.js";import{r as e}from"./Wu5bTjlV.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}};export{n as t};
-//# sourceMappingURL=H5OAPrqO.js.map
