@@ -1,3 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./Bpo8VodP.js","./BOgpgwC_.js"])))=>i.map(i=>d[i]);
-import{a as e}from"./me7XubYD.js";import{t}from"./DxLN9Q9A.js";var n=null;async function r(){if(n)return n;try{let r=await(await t(()=>import(`${e}/wasm/libdedx.mjs`),[],import.meta.url)).default({locateFile:t=>`${e}/wasm/${t}`}),{LibdedxServiceImpl:i}=await t(async()=>{let{LibdedxServiceImpl:e}=await import(`./Bpo8VodP.js`);return{LibdedxServiceImpl:e}},__vite__mapDeps([0,1]),import.meta.url);return n=new i(r),await n.init(),n}catch(e){let t=e instanceof Error?e.message:String(e);throw Error(`Failed to load WASM module: ${t}`)}}export{r as t};
-//# sourceMappingURL=DrwP6q8T.js.map
