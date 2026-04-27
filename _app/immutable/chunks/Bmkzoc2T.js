@@ -1,0 +1,2 @@
+import"./DaVYcTHr.js";import{r as e}from"./DzSh_NkR.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}};export{n as t};
+//# sourceMappingURL=Bmkzoc2T.js.map
