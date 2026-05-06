@@ -1,2 +1,0 @@
-import{Z as e}from"./DQLdaF6_.js";var t=e({value:localStorage.getItem(`dedx_advanced_mode`)===`1`});function n(){t.value=!t.value,t.value?localStorage.setItem(`dedx_advanced_mode`,`1`):localStorage.removeItem(`dedx_advanced_mode`)}function r(e){e.has(`mode`)&&(t.value=e.get(`mode`)===`advanced`,t.value?localStorage.setItem(`dedx_advanced_mode`,`1`):localStorage.removeItem(`dedx_advanced_mode`))}export{t as n,n as r,r as t};
-//# sourceMappingURL=Bm0YHsbU.js.map
