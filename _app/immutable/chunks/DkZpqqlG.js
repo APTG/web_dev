@@ -1,0 +1,2 @@
+var e=class{constructor(){throw Error(`@resvg/resvg-js is not available in browser builds.`)}render(){throw Error(`@resvg/resvg-js is not available in browser builds.`)}};export{e as Resvg};
+//# sourceMappingURL=DkZpqqlG.js.map
