@@ -1,0 +1,1 @@
+import{TH1Painter as e}from"./COV07hRI.js";export{e as TH1Painter};

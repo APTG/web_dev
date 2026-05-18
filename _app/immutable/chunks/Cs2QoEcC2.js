@@ -1,0 +1,1 @@
+import{RTreeMapPainter as e}from"./COV07hRI.js";export{e as RTreeMapPainter};

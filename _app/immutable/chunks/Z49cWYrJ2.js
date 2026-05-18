@@ -1,0 +1,1 @@
+import{TH3Painter as e}from"./COV07hRI.js";export{e as TH3Painter};

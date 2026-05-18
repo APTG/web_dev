@@ -1,0 +1,2 @@
+import{treeDrawProgress as e}from"./C3i5jQrS2.js";import{rntupleDraw as t}from"./Dkp2n_Ar2.js";import{isStr as n}from"./COV07hRI.js";async function r(r,i,a){let o={},s;if(i?.$tuple&&i.$field?(s=i.$tuple,o.expr=i._name,n(a)&&a.indexOf(`dump`)===0?(o.expr+=`>>`+a,o.branch=i.$field,o.copy_fields=!1):a&&(o.expr+=a)):(s=i,o.expr=a),!s)throw Error(`No RNTuple object available for drawing`);return o.drawid=r,o.progress=e.bind(o),t(s,o).then(e=>o.progress(e,!0))}export{r as drawRNTuple};
+//# sourceMappingURL=DoA43L5K2.js.map
