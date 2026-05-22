@@ -1,1 +1,0 @@
-import{TH1Painter as e}from"./RADR4EIZ.js";export{e as TH1Painter};
