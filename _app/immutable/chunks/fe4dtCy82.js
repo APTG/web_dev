@@ -1,0 +1,1 @@
+import{TH1Painter as e}from"./DoQCzGT4.js";export{e as TH1Painter};

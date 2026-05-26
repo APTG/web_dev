@@ -1,1 +1,0 @@
-import{TH3Painter as e}from"./Daha6c_S.js";export{e as TH3Painter};
