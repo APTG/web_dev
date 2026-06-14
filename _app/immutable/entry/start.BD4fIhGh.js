@@ -1,1 +1,0 @@
-import{c as e,r as t}from"../chunks/Kid2Ifwz.js";export{e as load_css,t as start};
