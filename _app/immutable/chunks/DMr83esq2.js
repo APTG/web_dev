@@ -1,1 +1,0 @@
-import{TH2Painter as e}from"./C-Tx1SK8.js";export{e as TH2Painter};
