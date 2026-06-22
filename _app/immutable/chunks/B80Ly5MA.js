@@ -1,2 +1,0 @@
-import"./enXqZFEr.js";import{i as e,o as t}from"./Cge5lm57.js";var n={get data(){return t.data},get error(){return t.error},get form(){return t.form},get params(){return t.params},get route(){return t.route},get state(){return t.state},get status(){return t.status},get url(){return t.url}};e.updated.check;var r=n;export{r as t};
-//# sourceMappingURL=B80Ly5MA.js.map
