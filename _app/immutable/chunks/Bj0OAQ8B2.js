@@ -1,1 +1,0 @@
-import{TH3Painter as e}from"./DcgJNIUd.js";export{e as TH3Painter};
