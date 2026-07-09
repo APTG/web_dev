@@ -1,1 +1,0 @@
-import"./DmgQmax2.js";
