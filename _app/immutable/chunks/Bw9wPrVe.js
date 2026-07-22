@@ -1,0 +1,1 @@
+import"./DlSVOu_G.js";import{it as e}from"./X515Cc6Q.js";import"./qQm5gRcz.js";import"./8WgtbUcX2.js";import"./BKlpE9KT2.js";import"./C78l_gOM2.js";import"./BxPzvQvx2.js";import"./DXOBwaIq2.js";import"./DN4c9kLW2.js";import"./CmDqPJKY2.js";import"./BpSlA9sB2.js";import"./Dt79zRII2.js";import"./CRDTxvUd.js";import"./0rEvRBAr.js";import"./CBIn0j00.js";export{e as getColor};
