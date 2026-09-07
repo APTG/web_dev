@@ -1,0 +1,1 @@
+import{TH3Painter as e}from"./BqFaeH08.js";export{e as TH3Painter};

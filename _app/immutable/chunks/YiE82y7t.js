@@ -1,0 +1,2 @@
+import"./T8H6wGa2.js";import{o as e}from"./BVCrB--g.js";var t={get data(){return e.data},get error(){return e.error},get form(){return e.form},get params(){return e.params},get route(){return e.route},get state(){return e.state},get status(){return e.status},get url(){return e.url}};export{t};
+//# sourceMappingURL=YiE82y7t.js.map
