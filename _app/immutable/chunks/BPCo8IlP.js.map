@@ -1,0 +1,1 @@
+{"version":3,"file":"BPCo8IlP.js","names":["enable_legacy_mode_flag"],"sources":["../../../../../../node_modules/.pnpm/svelte@5.57.1_@typescript-eslint+types@8.69.0/node_modules/svelte/src/internal/flags/legacy.js"],"sourcesContent":["import { enable_legacy_mode_flag } from './index.js';\n\nenable_legacy_mode_flag();\n"],"x_google_ignoreList":[0],"mappings":"mCAEAA,EAAwB"}
